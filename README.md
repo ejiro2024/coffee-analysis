@@ -14,3 +14,6 @@
 
 ## Visualisations
 ![Coffee_dashboard_1](Coffee_dashboard_1.PNG)
+
+
+### [Table of Content](#Table-of-Content)
