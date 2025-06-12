@@ -3,8 +3,8 @@
 
 
 #### Coffee
-##### Coffee
-###### Coffee
+
 [Download](https://microsoft.com)
-##Visualisations
-![Coffee dashboard_1](Coffee dashboard_1.PNG)
+
+## Visualisations
+![Coffee_dashboard_1](Coffee_dashboard_1.PNG)
