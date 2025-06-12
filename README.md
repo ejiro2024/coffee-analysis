@@ -4,17 +4,17 @@
 
 ## Table of Content
 
-- [Project Overview](Project-Overview)
-- [Data source](Data-source)
-- [Problem Statement](Problem-Statement)
-- [Tools used](Tools-used)
-- [Skills demonstrated](Skills-demonstrated)
-- [Data Analysis](Data-Analysis)
+- [Project Overview](#Project-Overview)
+- [Data source](#Data-source)
+- [Problem Statement](#Problem-Statement)
+- [Tools used](#Tools-used)
+- [Skills demonstrated](#Skills-demonstrated)
+- [Data Analysis](#Data-Analysis)
 
-- [Visualisations](Visualisations)
-- [Results and Findings](Results-and-Findings)
+- [Visualisations](#Visualisations)
+- [Results and Findings](#Results-and-Findings)
 
-- [Conclusion and Recommendations](Conclusion-and-Recommendations)
+- [Conclusion and Recommendations](#Conclusion-and-Recommendations)
   
 ## Project Overview
 ## Data source
