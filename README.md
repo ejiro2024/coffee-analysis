@@ -1,5 +1,6 @@
 # Coffee-analysis
-![Coffee image](coffee 2.jpeg)
+![coffee 2]()
+
 #### Coffee
 ##### Coffee
 ###### Coffee
